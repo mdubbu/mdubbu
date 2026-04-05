@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Ubaid
 
-<!--
-**mdubbu/mdubbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech Student
+- 💻 Interested in Programming and Technology
+- 🌱 Currently learning: C, C++, Java, Web Development
+- 🚀 Goal: Become a skilled software developer
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- Java
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Compiler Design Lab Programs
+- Microprocessor Projects
+- Web Development Practice
+
+## Connect with Me
+- Email: uua014236@gmail.com
+- LinkedIn:www.linkedin.com/in/mohd-ubaid-913b63318
+
+## Fun Fact
+- I love learning new tech and building cool things 😄
