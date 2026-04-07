@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ubaid</h1>
-<h3 align="center">B.Tech Student | Aspiring Full Stack Web Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center">B.Tech Student | Full Stack Web Developer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohd-ubaid-913b63318" target="_blank">
@@ -86,7 +86,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="mailto:uua014236@gmail.com">
+  <a href="mailto:ua014236@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/mohd-ubaid-913b63318" target="_blank">
