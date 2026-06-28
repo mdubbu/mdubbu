@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mohd-ubaid-913b63318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ubaid-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:uua014236@gmail.com">
+  <a href="mailto:ua014236@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/mdubbu" target="_blank">
